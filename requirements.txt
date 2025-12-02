@@ -1,8 +1,14 @@
 fastapi
 uvicorn[standard]
+python-dotenv
 sentence-transformers
 faiss-cpu
-openai
-python-dotenv
-pydantic
+pymupdf
+pdfplumber
+python-docx
+pytesseract
+Pillow
+groq
 python-multipart
+scikit-learn
+rank_bm25
